@@ -167,17 +167,17 @@ const Contact = () => {
                         <option value="" className="text-black ">
                           —Please choose an option—
                         </option>
-                        <option value="BrandingDesign" className="text-black ">
-                          Branding Design
+                        <option value="Dell" className="text-black ">
+                          Dell
                         </option>
-                        <option value="webdesign" className="text-black ">
-                          Web Design
+                        <option value="Samsung" className="text-black ">
+                          Samsung
                         </option>
-                        <option value="UI/UXDesign" className="text-black ">
-                          UI/UX Design
+                        <option value="Redmi" className="text-black ">
+                          Redmi
                         </option>
-                        <option value=" AppDesign" className="text-black ">
-                          App Design
+                        <option value="Hp" className="text-black ">
+                          Hp
                         </option>
                       </select>
                     </div>
